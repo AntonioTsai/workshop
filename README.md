@@ -1,6 +1,6 @@
-# A Git workshop
+# Advanced Git workshop
 
-## Enviroment Require
+## Environment Required
 
 - A reop include at least 3 commit
 - A remote repo at GitHub
